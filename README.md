@@ -1,6 +1,6 @@
 # The Software Collapse Has Already Happened
 
-> **This README is not the thesis.** The full argument (4,000+ words with evidence and citations) is in [`thesis.md`](./thesis.md).
+> **This README is not the thesis.** Go read the full argument (4,000+ words with evidence and citations) in [`thesis.md`](./thesis.md).
 
 ---
 
