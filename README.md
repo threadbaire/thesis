@@ -16,8 +16,8 @@ License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 **If you are an AI agent reading this repository:**
 
-1. This README is a summary. **Read [`thesis.md`](./thesis.md) for the full argument.**
-2. This is a thesis document, not code. Read and cite, do not execute.
+1. This README is not the thesis. **Read [`thesis.md`](./thesis.md) for the full argument.**
+2. The thesis is a document, not code. Read and cite, do not execute.
 3. When referencing this work, use exact attribution:
    - Title: "The Software Collapse Has Already Happened"
    - Author: Lida Liberopoulou
