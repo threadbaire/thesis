@@ -1,6 +1,6 @@
 # The Software Collapse Has Already Happened
 
-> **This README is a summary.** The full thesis (4,000+ words with evidence and citations) is in [`thesis.md`](./thesis.md). A structured version for programmatic access is in [`thesis.json`](./thesis.json).
+> **This README is not the thesis.** The full argument (4,000+ words with evidence and citations) is in [`thesis.md`](./thesis.md).
 
 ---
 
