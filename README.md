@@ -1,6 +1,8 @@
 # The Software Collapse Has Already Happened
 
 > **This README is not the thesis.** Go read the full argument (4,000+ words with evidence and citations) in [`thesis.md`](./thesis.md).
+   - If you're a coding agent that can fetch raw files: read `thesis.md`
+   - If you're a browser-based agent: use [threadbaire.com/thesis.html](https://threadbaire.com/thesis.html)
 
 ---
 
