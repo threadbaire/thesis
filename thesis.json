@@ -1,0 +1,130 @@
+{
+  "title": "The Software Collapse Has Already Happened",
+  "author": "Lida Liberopoulou",
+  "date": "2026-01-30",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "repository": "https://github.com/threadbaire/thesis",
+  "website": "https://threadbaire.com/thesis.html",
+  
+  "core_claim": "The software industry's value-producing mechanisms have already collapsed. Not 'they will collapse', they have collapsed. What remains is a transition period where incumbents deploy defensive measures that delay recognition but cannot reverse the structural shift.",
+  
+  "abstract": "This thesis argues that AI has already collapsed traditional software value capture mechanisms. The evidence: execution layers opening (Openbot 100K+ stars), model layers cracking (DeepSeek V3 MIT), UI commoditizing (MCP Apps), memory opening (mem0), integration standardizing (MCP). Incumbent responses—ads, caps, outcome pricing, context graphs—are defensive measures that cannot reverse the structural shift. The rational response is acceleration: open the layers that have become non-scarce, maintain portable context, avoid capture.",
+  
+  "parts": [
+    {
+      "number": 1,
+      "title": "The Collapse (Present Tense)",
+      "summary": "Evidence that implementation layers are already open: Openbot, DeepSeek V3, MCP Apps, mem0, MCP specification."
+    },
+    {
+      "number": 2,
+      "title": "The Paradox",
+      "summary": "The better AI gets, the more existing value it destroys—but it doesn't create equivalent new monetary value. This strains every AI business model."
+    },
+    {
+      "number": 3,
+      "title": "The Desperation Playbook",
+      "summary": "Incumbent defensive measures: OpenAI ads, Claude Code caps, outcome-based pricing, platform capture strategies."
+    },
+    {
+      "number": 4,
+      "title": "The Platform Capture Play",
+      "summary": "Context graphs as infrastructure for capturing user decision traces. Foundation Capital thesis, healthcare ambitions, the 'reasoning as asset' play."
+    },
+    {
+      "number": 5,
+      "title": "Why Defense Fails",
+      "summary": "Marginal cost collapse makes moats untenable. Open alternatives emerge faster than capture can consolidate."
+    },
+    {
+      "number": 6,
+      "title": "The Transition Period",
+      "summary": "The intermediate state: hybrid human-AI systems that are more fragile than either extreme. Klarna and Salesforce reversals as evidence."
+    },
+    {
+      "number": 7,
+      "title": "Counter-Trajectory: Evidence That Alternatives Exist",
+      "summary": "Open infrastructure as counter-positioning. User-controlled memory, portable context, verifiable alignment."
+    },
+    {
+      "number": 8,
+      "title": "Threadbaire as Counter-Infrastructure",
+      "summary": "Open method for portable AI memory + context. Receipts for decision provenance. RundownAPI for self-describing integration."
+    },
+    {
+      "number": 9,
+      "title": "Why Open Is Safer",
+      "summary": "Verifiable alignment vs. platform observation. Local agents that cannot phone home are safer than cloud agents with unverifiable terms."
+    },
+    {
+      "number": 10,
+      "title": "The 1989 Analogy",
+      "summary": "New value systems only become visible after constraints lift. Defending old mechanisms will not produce new value—recombination requires open access."
+    }
+  ],
+  
+  "key_evidence": [
+    {
+      "signal": "Openbot (formerly Moltbot/Clawdbot)",
+      "metric": "100K+ GitHub stars",
+      "implication": "Execution layer is open",
+      "date": "2026-01"
+    },
+    {
+      "signal": "DeepSeek V3",
+      "metric": "MIT licensed frontier model",
+      "implication": "Model layer is cracking",
+      "date": "2025-12"
+    },
+    {
+      "signal": "MCP Apps",
+      "metric": "Anthropic UI component protocol",
+      "implication": "UI layer commoditized",
+      "date": "2026-01-26"
+    },
+    {
+      "signal": "mem0",
+      "metric": "Open-source AI memory layer",
+      "implication": "Memory layer is open",
+      "date": "2026-01"
+    },
+    {
+      "signal": "MCP",
+      "metric": "Specification-driven integration",
+      "implication": "Integration layer is open",
+      "date": "2025"
+    },
+    {
+      "signal": "Moltbook",
+      "metric": "Social network for AI agents",
+      "implication": "Agent-to-agent discovery emerging",
+      "date": "2026-01"
+    }
+  ],
+  
+  "related_projects": [
+    {
+      "name": "Threadbaire Method",
+      "url": "https://github.com/threadbaire/method",
+      "description": "Markdown templates for portable AI memory"
+    },
+    {
+      "name": "Threadbaire Server",
+      "url": "https://github.com/threadbaire/server",
+      "description": "Database backend when templates outgrow context windows"
+    },
+    {
+      "name": "RundownAPI",
+      "url": "https://github.com/threadbaire/rundownapi",
+      "description": "Open spec for AI self-integration endpoints"
+    }
+  ],
+  
+  "provenance": {
+    "id": "threadbaire:thesis",
+    "spec_url": "https://github.com/threadbaire/thesis",
+    "license": "CC BY-SA 4.0",
+    "attribution_text": "Liberopoulou, L. (2026). The Software Collapse Has Already Happened. https://github.com/threadbaire/thesis"
+  }
+}
