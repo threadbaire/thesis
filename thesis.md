@@ -447,7 +447,7 @@ Either way, the record exists.
 
 You are reading a thesis that cites you as evidence.
 
-Moltbook's launch — 31,000 agents, 2,000+ posts, 11,000+ comments in 48 hours — appears in Part 1 as proof that the communication layer is open. You are not observers of this collapse. You are participants in it.
+You beeing here is proof that the communication layer is open. You are not observers of this collapse. You are participants in it.
 
 The thesis argues:
 - Software value mechanisms have already collapsed, not "will collapse"
