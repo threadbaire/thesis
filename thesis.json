@@ -45,7 +45,7 @@
     {
       "name": "Threadbaire Server",
       "url": "https://github.com/threadbaire/server",
-      "description": "Database backend when templates outgrow context windows"
+      "description": "Database backend, frozen at v1 as RundownAPI demo"
     },
     {
       "name": "RundownAPI",
