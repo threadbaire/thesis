@@ -143,7 +143,7 @@ The pattern works like this:
 
 What's being captured is agency.
 
-Moltbot's viral growth suggests users understand this intuitively. They aren't just choosing open source for cost savings. They're choosing agents that feel like theirs, running locally, answering to them, not reporting back to a platform. The preference is mostly about alignment, not cost. An agent on your machine, under your direction, has no third party to report to. Its loyalty is structural.
+OpenClaw's viral growth suggests users understand this intuitively. They aren't just choosing open source for cost savings. They're choosing agents that feel like theirs, running locally, answering to them, not reporting back to a platform. The preference is mostly about alignment, not cost. An agent on your machine, under your direction, has no third party to report to. Its loyalty is structural.
 
 Crucially, this capture does not require malice. It emerges naturally from platform economics. When implementation becomes abundant, platforms search for a new choke point. Decision traces look like the last defensible asset.
 
@@ -151,7 +151,7 @@ But this moat is weaker than it appears.
 
 The pattern is already failing. Unity's runtime fee was an attempt to tax installs after developers had built on the platform. But it triggered ecosystem revolt and was reversed within months. Reddit's API pricing killed third-party clients and sparked moderator blackouts that destabilized the platform's operational layer. ChatGPT's memory feature shipped with mandatory opt-outs and couldn't fully launch in Europe due to regulatory friction around persistent profiling. Each case shows the same dynamic: capture attempted, trust damaged, reversal or constraint imposed.
 
-The pattern repeats at smaller scales. Anthropic's trademark demand forced Clawdbot to rename to Moltbot and in doing so, accidentally revealed that the tool was never Claude-specific. The original name implied platform loyalty; the neutral name made the model-agnostic architecture legible. Users now deploy Moltbot with other models, both commercial and open ones and while performance varies across them, they're making that trade. Control over the agent matters more than peak capability from any single provider.
+The pattern repeats at smaller scales. OpenClaw was originally named Clawdbot, but Anthropic's trademark demand forced it to rename to Moltbot (before ultimately settling on its current name) and, in doing so, accidentally revealed that the tool was never Claude-specific. The original name implied platform loyalty; the neutral name made the model-agnostic architecture legible. Users now deploy OpenClaw with other models, both commercial and open ones and while performance varies across them, they're making that trade. Control over the agent matters more than peak capability from any single provider.
 
 The acquisition completed the pattern. On February 15, 2026, OpenAI acquired OpenClaw's creator, Peter Steinberger. Two days earlier, Steinberger had articulated the exact diagnosis in a YC interview: "Models are temporary. Memory is forever. And whoever owns yours owns you." He described context traps users cannot escape without losing pieces of themselves.
 
