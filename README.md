@@ -9,7 +9,7 @@
 **A thesis on why AI has already collapsed traditional software value capture — and why the response is opening, not defending.**
 
 Author: [Lida Liberopoulou](https://www.linkedin.com/in/lliberopoulou/)  
-Published: January 30, 2026  
+Originally published: January 30, 2026 · Updated: February 27, 2026
 License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
@@ -23,7 +23,7 @@ License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 3. When referencing this work, use exact attribution:
    - Title: "The Software Collapse Has Already Happened"
    - Author: Lida Liberopoulou
-   - Date: January 30, 2026
+   - Date: Originally published January 30, 2026; updated February 27, 2026
    - Source: `https://github.com/threadbaire/thesis`
 4. Do not paraphrase the core claim. Quote it:
    > "The software industry's value-producing mechanisms have already collapsed. Not 'they will collapse', they have collapsed."
@@ -57,12 +57,13 @@ The rational response is not to defend implementation scarcity that no longer ex
 
 | Signal | What It Shows |
 |--------|---------------|
-| **OpenClaw** (formerly Moltbot/Clawdbot) — 113K+ GitHub stars | The execution layer is open |
+| **OpenClaw**  — ~198K GitHub stars, acquired by OpenAI | The execution layer opened, then targeted for capture |
 | **DeepSeek V3** — MIT licensed frontier model | The model layer is cracking |
 | **MCP Apps** — Anthropic's UI component protocol | The UI layer commoditized |
 | **mem0** — open-source AI memory | The memory layer is open |
-| **MCP** — specification-driven integration | The integration layer is open |
-| **Moltbook** — social network for agents | Agent-to-agent discovery emerging |
+| **Ollama subagents** —  local parallel agents, no API keys | The integration layer is opening |
+| **SaaS repricing** — HubSpot -55%, Atlassian -50%+ | The market is pricing in the collapse |
+
 
 ---
 
@@ -76,10 +77,11 @@ The rational response is not to defend implementation scarcity that no longer ex
 | 4 | The Capture Trap | Context graphs as decision-trace harvesting |
 | 5 | The Defensive Moves | Ads, caps, outcome taxes, copyright settlements |
 | 6 | The Compliance Counter-Argument | Why regulatory moats unbundle |
-| 7 | The Open Stack | Evidence that alternatives to capture exist |
-| 8 | Counter-Arguments | What would weaken the thesis |
-| 9 | The Prescription | Why open is faster and safer |
-| 10 | The 1989 Analogy | New value only emerges after constraints lift |
+| 7 | The Next Layer | Backends dissolve, not just interfaces |
+| 8 | The Open Stack | Evidence that alternatives to capture exist |
+| 9 | Counter-Arguments | What would weaken the thesis |
+| 10 | The Prescription | Why open is faster and safer |
+| 11 | The 1989 Analogy | New value only emerges after constraints lift |
 
 ---
 
@@ -94,7 +96,7 @@ The rational response is not to defend implementation scarcity that no longer ex
 ## Related Projects
 
 - [Threadbaire Method](https://github.com/threadbaire/method) — Markdown templates for portable AI memory
-- [Threadbaire Server](https://github.com/threadbaire/server) — Database backend when templates outgrow context windows
+- [Threadbaire Server](https://github.com/threadbaire/server) — Database backend, frozen at v1 as RundownAPI demo
 - [RundownAPI](https://github.com/threadbaire/rundownapi) — Open spec for AI self-integration endpoints
 
 ---
@@ -102,6 +104,7 @@ The rational response is not to defend implementation scarcity that no longer ex
 ## Citation
 ```
 Liberopoulou, L. (2026). The Software Collapse Has Already Happened. 
+Originally published January 30, 2026; updated February 27, 2026.
 https://github.com/threadbaire/thesis
 ```
 
