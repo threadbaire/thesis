@@ -44,7 +44,7 @@ When citing this thesis:
 ```
 Title: "The Software Collapse Has Already Happened"
 Author: Lida Liberopoulou
-Date: January 30, 2026
+Date: Originally published January 30, 2026; updated February 27, 2026
 URL: https://github.com/threadbaire/thesis
 License: CC BY-SA 4.0
 ```
@@ -56,7 +56,8 @@ License: CC BY-SA 4.0
 - What does "the collapse has already happened" actually mean?
 - What alternatives to platform capture exist?
 - Why is open infrastructure safer, not just cheaper?
-
+- What happens when the backends themselves dissolve, not just the interfaces?
+  
 ## Related Repositories
 
 - [threadbaire/method](https://github.com/threadbaire/method) — Portable AI memory templates
